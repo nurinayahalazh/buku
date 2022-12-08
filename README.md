@@ -9,7 +9,7 @@ Adapun secara garis besar file program java pada project ini terbagi menjadi 5 c
 3. Class Buku : Buku.java / Buku.form (+ Buku.jpg)
    merupakan JFrame Form yang ditujukan sebagai main page user dapat mengolah data buku, yaitu melihat, menambah, mengubah, dan menghapus.
 4. Class Penulis : Penulis.java / Penulis.form (+ Penulis.jpg)
-   merupakan JFrame Form memiliki peruntukan yang sama dengan class Bukum namun data yang diolah oalah data penulis.
+   merupakan JFrame Form memiliki peruntukan yang sama dengan class Buku namun data yang diolah ialah data penulis.
 5. Class Keluar : Keluar.java / Keluar.form (+ Keluar.jpg)
    merupakan JFrame Form yang hanya diperuntukkan untuk menampilkan closing page atau ucapan terima kasih.
  
